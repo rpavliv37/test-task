@@ -1,0 +1,22 @@
+[
+  {
+    "name": "bmw",
+    "logo": "https://i.pinimg.com/originals/6c/d3/72/6cd372b3252535abbf601d4789e52bec.png",
+    "description": "Bayerische Motoren Werke AG, commonly referred to as BMW (German pronunciation: (About this soundlisten)), is a German multinational company which produces luxury vehicles and motorcycles. The company was founded in 1916 as a manufacturer of aircraft engines, which it produced from 1917 until 1918 and again from 1933 to 1945. Automobiles are marketed under the brands BMW, Mini and Rolls-Royce, and motorcycles are marketed under the brand BMW Motorrad. In 2015, BMW was the world's twelfth-largest producer of motor vehicles, with 2,279,503 vehicles produced. BMW is headquartered in Munich and produces motor vehicles in Germany, Brazil, China, India, South Africa, the United Kingdom, the United States and Mexico. BMW has significant motorsport history, especially in touring cars, Formula 1, sports cars and the Isle of Man TT."
+  },
+  {
+    "name": "ford",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ford_logo_flat.svg/640px-Ford_logo_flat.svg.png",
+    "description": "Ford Motor Company, commonly known as Ford, is an American multinational automaker that has its main headquarters in Dearborn, Michigan, a suburb of Detroit. It was founded by Henry Ford and incorporated on June 16, 1903. The company sells automobiles and commercial vehicles under the Ford brand, and most luxury cars under the Lincoln brand. Ford also owns Brazilian SUV manufacturer Troller, an 8% stake in Aston Martin of the United Kingdom and a 32% stake in Jiangling Motors.[7] It also has joint-ventures in China (Changan Ford), Taiwan (Ford Lio Ho), Thailand (AutoAlliance Thailand), Turkey (Ford Otosan), and Russia (Ford Sollers). The company is listed on the New York Stock Exchange and is controlled by the Ford family; they have minority ownership but the majority of the voting power"
+  },
+  {
+    "name": "porsche",
+    "logo": "https://avatanplus.com/files/resources/original/5ad4dd317a714162cf80095e.png",
+    "description": "Dr.-Ing. h.c. F. Porsche AG, usually shortened to Porsche AG (German pronunciation: (About this soundlisten); see below), is a German automobile manufacturer specializing in high-performance sports cars, SUVs and sedans. The headquarters of Porsche AG is in Stuttgart, and is owned by Volkswagen AG, a controlling stake of which is owned by Porsche Automobil Holding SE. Porsche's current lineup includes the 718 Boxster/Cayman, 911, Panamera, Macan, Cayenne and Taycan."
+  },
+  {
+    "name": "skoda",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/%C5%A0koda_Works_logo.png",
+    "description": "ŠKODA AUTO (Czech pronunciation: (About this soundlisten)), commonly called Škoda, is a Czech automobile manufacturer founded in 1895 as Laurin & Klement and headquartered in Mladá Boleslav, Czech Republic. In 1925 Laurin & Klement was acquired by the industrial conglomerate Škoda Works,[4] which itself became state owned in 1948. After 1991 it was gradually privatized and in 2000 Škoda became a wholly owned subsidiary of the German Volkswagen Group. Škoda automobiles are sold in over 100 countries and in 2018, total global sales reached 1.25 million units, an increase of 4.4% from the previous year.[1] The operating profit was €1.6 billion in 2017, an increase of 34.6% over the previous year.[6][7] As of 2017, skodas profit margin was the second highest of all VW Group brands after Porsche."
+  }
+]

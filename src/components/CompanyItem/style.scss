@@ -1,0 +1,31 @@
+.company {
+  display: grid;
+  grid-template-rows: 200px auto 40px auto;
+  grid-template-areas:
+    'logo'
+    'description'
+    '.'
+    'news';
+
+  &__logo {
+    grid-area: logo;
+    height: 150px;
+    justify-self: center;
+    align-self: center;
+  }
+
+  &__description {
+    grid-area: description;
+  }
+
+  &__news {
+    grid-area: news;
+    .list-group-item {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 600px;
+      align-self: center;
+    }
+  }
+}
