@@ -33,7 +33,7 @@ function App() {
             <Row>
               <Col xs={12}>
                 <Switch>
-                  <Redirect exact from='/' to='/BMW' />
+                  <Redirect exact from='/' to='/bmw' />
                   <Route path='/:companyName' component={CompanyItem} />
                 </Switch>
               </Col>
